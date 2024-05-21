@@ -18,7 +18,7 @@ A folder named “dataset_vodafone” includes 19 Wireshark capture files(.pcapn
 A folder named “dataset_kt” contains 7 Wireshark capture files(.pcapng) from KT, used applications are Discord, Gmail, MS Outlook, YouTube, YouTube music and KakaoTalk. <br/> <br/> 
 The folder named “project_applied_packet” includes four .pcapng files which have been applied to the final paper for the performance matrices and the four .pcapng files in the folder are based on UDP applications.<br/> <br/> 
 The python file, “code_implementation.py” is a software tool that facilitates performance evaluation and analysis. <br/> <br/> 
-* Note : raw data for youtube and youtube music(kt) captured files haven't been uploaded successfully on git due to file size issue, however; it has been uploaded on Ultra. *
+* Note : raw data files for youtube and youtube music.pcapng in "dataset_kt", and a raw datafile kt.pcapng in "project_applied_packet" haven't been uploaded successfully on git due to file size issue, however; it has been uploaded on Ultra. *
 
 # code_implementation
 This is the instruction of “code_implementation.py”.
