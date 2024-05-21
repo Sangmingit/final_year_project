@@ -2,10 +2,10 @@
 This is the space to deposit the final year CS project.
 
 # data_organisation
-In the submission, a python file, a txt file, and the number of dataset have been delivered.
-The dataset were captured by Wireshark and collected by bgth83.
-Raw packet captured files using Wireshark have been delivered in the submission, and the dataset have been captured by bgth83.
-The raw network packets captured files from four ISPs including three British ISPs and a Korean ISP. 
+In the submission, a python file, a txt file, and the number of dataset have been delivered. <br/> 
+The dataset were captured by Wireshark and collected by bgth83. <br/> 
+Raw packet captured files using Wireshark have been delivered in the submission, and the dataset have been captured by bgth83.<br/> 
+The raw network packets captured files from four ISPs including three British ISPs and a Korean ISP. <br/> 
 - Participated British ISPs - BT, Vodafone, Virgin media
 - Participated Korean ISP - KT
  
