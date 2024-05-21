@@ -42,7 +42,7 @@ For example, project_applied_packet/bt.pcapng<br/> <br/>
 Then, please choose the option you want to execute.<br/> <br/> 
 
 
-* the final paper is based on packets in a folder, project_applied_packet. <br/> 
+the final paper is based on packets in a folder, project_applied_packet. <br/> 
 ####################################################################################
 
 
