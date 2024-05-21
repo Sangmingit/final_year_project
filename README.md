@@ -23,26 +23,26 @@ The python file, “code_implementation.py” is a software tool that facilitate
 # code_implementation
 This is the instruction of “code_implementation.py”.
 
-####################################################################################
-This is a command line application, to execute it, please open the terminal (MAC) or, CMD(Windows).
+#################################################################################### <br/> 
+This is a command line application, to execute it, please open the terminal (MAC) or, CMD(Windows).<br/> <br/> 
 
-The application has 4 main functions.
-1. Identify coexistence method - is going to tell you the deployed coexistence method.
-2. Analyse Packet Data (IPv4) - is going to analyse the performance of the ISP by taking user input (src and dst addresses - IPv4).
-3. Analyse Packet Data (IPv6) - is going to analyse the performance of the ISP by taking user input (src and dst addresses - IPv6).
-4. Analyse IPv6 Usage - is going to display the total frame numbers and total number of IPv6 addresses with a visualisation.
+The application has 4 main functions.<br/> 
+1. Identify coexistence method - is going to tell you the deployed coexistence method.<br/> 
+2. Analyse Packet Data (IPv4) - is going to analyse the performance of the ISP by taking user input (src and dst addresses - IPv4).<br/> 
+3. Analyse Packet Data (IPv6) - is going to analyse the performance of the ISP by taking user input (src and dst addresses - IPv6).<br/> 
+4. Analyse IPv6 Usage - is going to display the total frame numbers and total number of IPv6 addresses with a visualisation.<br/> <br/> 
 
-Then, please make sure, you are in the right directory. - /code_submission
-You can run the application by typing python3 code_implementation.py on the command line.
-If you encounter any errors, you can also execute it on visual studio code easily.
+Then, please make sure, you are in the right directory. - /code_submission<br/> 
+You can run the application by typing python3 code_implementation.py on the command line.<br/> 
+If you encounter any errors, you can also execute it on visual studio code easily.<br/> <br/> 
 
-To load the packet files, you need to input the path and filename.
-For example, project_applied_packet/bt.pcapng
+To load the packet files, you need to input the path and filename.<br/> 
+For example, project_applied_packet/bt.pcapng<br/> <br/> 
 
-Then, please choose the option you want to execute.
+Then, please choose the option you want to execute.<br/> <br/> 
 
 
-* the final paper is based on packets in a folder, project_applied_packet.
+* the final paper is based on packets in a folder, project_applied_packet. <br/> 
 ####################################################################################
 
 
