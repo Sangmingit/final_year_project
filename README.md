@@ -19,7 +19,7 @@ A folder named “PCAP_KT” in "pcap files" folder contains 7 Wireshark capture
 The folder named “PCAP_project_applied_packet” in "pcap files" folder includes four .pcapng files which have been applied to the final paper for the performance matrices and the four .pcapng files in the folder are based on UDP applications.<br/> <br/> 
 The python file in "python files" folder, “code_implementation.py” is a software tool that facilitates performance evaluation and analysis. <br/> <br/>
 Also, "reports" folder includes the final project paper.
-* Note : raw data files for youtube and youtube music.pcapng in "dataset_kt", and a raw datafile kt.pcapng in "project_applied_packet" haven't been uploaded successfully on git due to file size issue, however; it has been uploaded on Ultra. *
+* Note : raw data files for youtube and youtube music.pcapng in "PCAP_KT", and a raw datafile kt.pcapng in "PCAP_project_applied_packet" haven't been uploaded successfully on git due to file size issue, however; it has been uploaded on Ultra. *
 
 # code_implementation
 This is the instruction of “code_implementation.py”.
